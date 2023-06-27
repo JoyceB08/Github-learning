@@ -1,0 +1,12 @@
+**BASIC INFO** 
+
+GitHub is a web-based platform for version control.
+It uses Git to track and manage code changes.
+Repositories store code and related files.
+Branches allow independent work on specific features.
+Pull requests propose and review code changes.
+Collaboration is facilitated through issue tracking and comments.
+Integration with third-party tools enhances workflow.
+Social features foster a developer community.
+Documentation can be created using markup languages.
+GitHub Pages hosts static websites from repositories.
